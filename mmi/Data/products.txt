@@ -1,0 +1,5 @@
+1|Fender Strat|Guitars|25000|2
+2|aTama drums|Drums|30000|1
+3|Saxophone|wind instr|15000|2
+4|Yamaha SHS-500B|Keyboard|15000|2
+5|Violin Stradivarius|bow instruments|100000|1

@@ -1,0 +1,5 @@
+1|Guitars
+2|Drums
+4|wind instr
+5|Keyboard
+7|bow instruments
